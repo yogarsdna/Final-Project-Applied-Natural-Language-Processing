@@ -1,0 +1,47 @@
+{
+    "os": "Windows-10-10.0.26100-SP0",
+    "python": "3.11.7",
+    "heartbeatAt": "2025-06-15T00:55:22.388411",
+    "startedAt": "2025-06-15T00:55:17.599846",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "Applied Natural Language Processing UniTn/Final Project.ipynb",
+    "codePathLocal": null,
+    "root": "D:\\Jupyter Notebook",
+    "host": "MSI",
+    "username": "Yoga",
+    "executable": "D:\\anaconda3\\python.exe",
+    "cpu_count": 14,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 2700.0,
+        "min": 0.0,
+        "max": 2700.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2700.0,
+            "min": 0.0,
+            "max": 2700.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 634.7646446228027,
+            "used": 444.8931465148926
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3070 Ti Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3070 Ti Laptop GPU",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 15.710674285888672
+    }
+}

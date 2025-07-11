@@ -1,0 +1,15 @@
+
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+D:\anaconda3\Lib\site-packages\accelerate\accelerator.py:436: FutureWarning: Passing the following arguments to `Accelerator` is deprecated and will be removed in version 1.0 of Accelerate: dict_keys(['dispatch_batches', 'split_batches', 'even_batches', 'use_seedable_sampler']). Please pass an `accelerate.DataLoaderConfiguration` instead:
+dataloader_config = DataLoaderConfiguration(dispatch_batches=None, split_batches=False, even_batches=True, use_seedable_sampler=True)
+  warnings.warn(
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Training loss has reached 0.6724 — stopping early.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+D:\anaconda3\Lib\site-packages\accelerate\accelerator.py:436: FutureWarning: Passing the following arguments to `Accelerator` is deprecated and will be removed in version 1.0 of Accelerate: dict_keys(['dispatch_batches', 'split_batches', 'even_batches', 'use_seedable_sampler']). Please pass an `accelerate.DataLoaderConfiguration` instead:
+dataloader_config = DataLoaderConfiguration(dispatch_batches=None, split_batches=False, even_batches=True, use_seedable_sampler=True)
+  warnings.warn(
+Training loss has reached 0.3957 — stopping early.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Luka Modric is a young midfielder who currently shows good ability (CA: 160), with a potential ceiling of good (PA: 175). He still has room to grow and could reach a higher level with the right development. Key strengths include: passing rated decent, vision rated decent, decision rated decent, technique rated decent. Overall, he can be categorized as a promising player.
+Luka Modric is a young midfielder who currently shows good ability (CA: 160), with a potential ceiling of good (PA: 175). He still has room to grow and could reach a higher level with the right development. Key strengths include: passing rated decent, vision rated decent, decision rated decent, technique rated decent. Overall, he can be categorized as a promising player.
